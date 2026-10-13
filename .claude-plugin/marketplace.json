@@ -1,0 +1,12 @@
+{
+  "name": "takgon",
+  "description": "tglee 개인 Claude Code mods 마켓플레이스(takgon-mods)",
+  "owner": { "name": "tglee" },
+  "plugins": [
+    {
+      "name": "takgon-mods",
+      "description": "개인 생산성 mods: i18n, PR/Linear 연동, 작업 패널, 자동 인수인계 등 8개 모듈",
+      "source": { "source": "github", "repo": "astromelon/takgon-mods" }
+    }
+  ]
+}
